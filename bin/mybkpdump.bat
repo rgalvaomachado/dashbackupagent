@@ -52,6 +52,6 @@ echo ECHO %%NumTabelas%% ^>^> NumTabelas.txt >>mybkp\dump.Bat
 REM ** Rodando o dump
 call mybkp\dump.bat
 
-move NumTabelas.txt ../infos
-move Erro.log ../infos
-move Tables.txt ../infos
+move NumTabelas.txt infos
+move Erro.log infos
+move Tables.txt infos
