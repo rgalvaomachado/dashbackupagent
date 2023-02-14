@@ -18,7 +18,7 @@
     $erro = file_get_contents("infos\Erro.log");
 
     $data = json_encode([
-        "database" => $database,
+        "name_database" => $database,
         "data" => date('Y-m-d'),
         "total" => trim($total),
         "realizado" => trim($realizado),

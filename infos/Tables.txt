@@ -1,8 +1,2 @@
-alune
-comissao
-disciplina
-monitore
-presenca
-representante
-sala
-tutore
+drink
+users

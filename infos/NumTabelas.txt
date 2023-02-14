@@ -1,6 +1,6 @@
 Data do Log: 
 13/02/2023 
 Tabelas Totais: 
-8 
+2 
 Backup Realizado: 
-8  
+2  
